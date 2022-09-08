@@ -1,6 +1,6 @@
 # Printer status change from offline to online
 
-[![Printer status change from offline to online](red.png)](https://computersolve.com/printer-status-change-from-offline-to-online/)
+[![Printer status change from offline to online](red.png)](https://icncomputer.com/printer-status-change-from-offline-to-online/)
 
 Printers on Windows 11/10 can have a status of offline and online. Everyone wants their default printer to be available and ready for print. One should know that when a printer goes offline, it doesn’t mean it has been removed. It could go offline because of an error during printing or an issue with the printer driver. Windows OS can set the status of the printer as offline if it finds a problem. In this post, we will show how you can change a **Printer status status change from offline to online.**
 
